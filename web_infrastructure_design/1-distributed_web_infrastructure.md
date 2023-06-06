@@ -1,5 +1,5 @@
 # <p align="center">Distributed Web Infrastructure</p>
-<img src="" width="100%">
+<img src="https://github.com/Soniabensaad/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/1-1distributed_web_infrastructure.png" width="100%">
 
 ### Requirements
 
