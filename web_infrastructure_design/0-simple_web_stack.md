@@ -1,5 +1,5 @@
 # <p align="center">Web Infrastructure Design</p>
-<img src="" width="100%">
+<img src="https://github.com/Soniabensaad/holbertonschool-system_engineering-devops/blob/main/web_infrastructure_design/0-simple_web_stack.jpg" width="100%">
 
 ### Server
 
